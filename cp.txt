@@ -1,0 +1,1 @@
+/Users/liuzhe/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/liuzhe/.m2/repository/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar:/Users/liuzhe/.m2/repository/mysql/mysql-connector-java/5.1.18/mysql-connector-java-5.1.18.jar
